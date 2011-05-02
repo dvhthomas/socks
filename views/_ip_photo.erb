@@ -1,0 +1,11 @@
+<div class="item-content">
+        <img src="<%=item.attachment.big_url%>" height="300px" alt="<%= item.attachment.description%>" />
+
+        <%if item.attachment.description != item.message%>
+                <p><%=item.attachment.description%></p>
+        <%end%>
+        <blockquote>
+                <%=item.message%>&nbsp;
+                <a href="<%=item.permalink%>">more</a>
+        </blockquote>
+</div>

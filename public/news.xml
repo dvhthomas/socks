@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<error_response xmlns="http://api.facebook.com/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://api.facebook.com/1.0/ http://api.facebook.com/1.0/facebook.xsd">
+  <error_code>102</error_code>
+  <error_msg>Session key invalid or no longer valid</error_msg>
+  <request_args list="true">
+    <arg>
+      <key>method</key>
+      <value>fql.multiquery</value>
+    </arg>
+    <arg>
+      <key>queries</key>
+      <value>{&quot;photo&quot;:&quot;select pid, src_big from photo where pid in (select attachment.media.photo from #feed where attachment !='')&quot;,&quot;author&quot;:&quot;select id, name, url, pic_square from profile where id = 177271770724&quot;,&quot;comments&quot;:&quot;select post_id,time from comment where post_id in (select post_id from #feed) order by time desc&quot;,&quot;feed&quot;:&quot;SELECT created_time, updated_time, post_id, actor_id, target_id, message, permalink, comments.count, likes.count, likes.href, attachment, action_links FROM stream WHERE source_id =177271770724 and actor_id=177271770724 AND is_hidden = 0 and created_time &gt; 1287463892 AND comments.count &gt; 0 order by comments.count DESC limit 20&quot;}</value>
+    </arg>
+    <arg>
+      <key>format</key>
+      <value>xml</value>
+    </arg>
+  </request_args>
+</error_response>

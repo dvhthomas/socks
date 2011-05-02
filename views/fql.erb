@@ -1,0 +1,35 @@
+Choose a source of news from the pre-configured list and see what is hot on Facebook for that news source:</p>
+
+<div id="chooser">
+
+<form action='/fb/news' method='get'>
+	<label for='sources'>News sources:</label>
+	<select name="source">
+		<% @sources.each do |s| %>
+			<optgroup label="<%= s[0].capitalize %>">
+			
+			<% s[1].each do |item| %>
+
+				<% if item[1].to_s.eql? @fb_id %>
+					<option selected value="<%= item[1] %>">
+				<% else %>
+					<option value="<%= item[1] %>">
+				<%end %>
+
+				<%=item[0].gsub('_',' ').gsub(/\b\w/){$&.upcase}%>
+			   	</option>
+			<% end %>
+		<% end %>
+	</select>
+    <input type='submit' value='Get the news' />
+</form>
+
+</div>
+
+<h4>FQL</h4>
+<p class="quiet"><%=@news.fql_feed%></p>
+<p class="quiet"><%=@news.fql_author%></p>
+<p class="quiet"><%=@news.fql_comment%></p>
+<p class="quiet"><%=@news.fql_story_photo%></p>
+
+<pre><%=@news.inspect%></pre>

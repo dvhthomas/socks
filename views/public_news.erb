@@ -1,0 +1,53 @@
+Choose a source of news from the pre-configured list and see what is hot on Facebook for that news source:</p>
+
+<div id="chooser">
+
+<form action='/fb/news' method='get'>
+	<label for='sources'>News sources:</label>
+	<select name="source">
+		<% @sources.each do |s| %>
+			<optgroup label="<%= s[0].capitalize %>">
+			
+			<% s[1].each do |item| %>
+
+				<% if item[1].to_s.eql? @fb_id %>
+					<option selected value="<%= item[1] %>">
+				<% else %>
+					<option value="<%= item[1] %>">
+				<%end %>
+
+				<%=item[0].gsub('_',' ').gsub(/\b\w/){$&.upcase}%>
+			   	</option>
+			<% end %>
+		<% end %>
+	</select>
+    <input type='submit' value='Get the news' />
+</form>
+
+</div>
+
+<h2><%=@news.author.name%> by Facebook</h2>
+
+<% if @news.stories.nil? %>
+	<p class="large">No news found</p>
+<% else %>
+	<p class="quiet">(raw xml <a href="/news.xml" target="_blank">results</a> for ID <%=@news.author.id%>)</p>
+	<% @news.stories.each do |item| %>
+		<div class="span-2">
+			<a href="<%=item.source_url%>">
+				<img class="story-picture" src="<%=item.thumbnail%>" />
+			</a>
+		</div>
+		<div class="span-22 last">
+		<h3><a href="<%=item.source_url%>"><%=item.headline%></a></h3>
+			<p><strong><%=item.created_time%></strong> &ndash; <%=item.excerpt%></p>
+			<p class="quiet small"><a href="<%=item.permalink%>"><%=item.comment_count%> comments</a> | <a href="<%=item.permalink%>"><%=item.like_count%> likes</a> | most recent comment <strong><%=item.updated_time%></strong></p>
+		</div>
+		<hr/>
+	<% end %>
+	<h4>FQL</h4>
+	<p class="quiet"><%=@news.fql_feed%></p>
+	<p class="quiet"><%=@news.fql_author%></p>
+	<p class="quiet"><%=@news.fql_comment%></p>
+	<p class="quiet"><%=@news.fql_story_photo%></p>
+<%end%>

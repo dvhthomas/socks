@@ -1,0 +1,14 @@
+<%if !item.attachment.nil?%>
+<div class="item-content">
+        <a href="<%=item.attachment.view_url%>">
+		<img src="<%=item.attachment.preview %>" height="300px" alt="<%= item.attachment.link_title%>" />
+	</a>
+
+	<p><a href="<%=item.attachment.view_url%>"><%=item.attachment.link_title%></a></p>
+        <p><%=item.attachment.description%></p>
+        <blockquote>
+                <%=item.message%>&nbsp;
+                <a href="<%=item.permalink%>">more</a>
+        </blockquote>
+</div>
+<%end%>

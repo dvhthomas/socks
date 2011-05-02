@@ -1,0 +1,13 @@
+<div class="item-meta">
+        <table>
+                <tr>
+                        <td><img src="<%=item.author.picture_url%>"
+                                title="<%=item.author.name%>"
+                                alt="<%=item.author.name%>"/></td>
+                        <td><cite><a href="<%=item.author.profile_url%>">
+                                        <%=item.author.name%></a> shared this <%=item.type%><br/>@ <%=item.created_on%> &mdash;
+                                        <%=item.likes%> likes, <%=item.comments%> comments
+                        </cite></td>
+               </tr>
+        </table>
+</div>

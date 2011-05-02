@@ -1,0 +1,13 @@
+addressable
+cgi_multipart_eof_fix
+faraday
+gem_plugin
+json
+mime-types
+multi_json
+nokogiri
+oauth2
+rack
+rest-client
+rest-graph
+sinatra

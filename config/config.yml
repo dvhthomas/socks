@@ -1,0 +1,51 @@
+facebook:
+ app_id: 'INSERT_YOUR_APP_ID'
+ api_key: 'INSERT_YOUR_API_KEY'
+ secret_key: 'INSERT_YOUR_SECRET_KEY'
+ sources:
+  news:
+    barack_obama: 6815841748
+    cnn: 5550296508 
+    republican_national_committee: 123192635089
+    huffington_post: 18468761129 
+    msnbc: 23294612872
+    new_york_times: 5281959998
+  entertainment:
+    e_online: 89033370735
+    us_weekly: 9034820804
+    perez_hilton: 116397088405021
+    tmz: 208421665712
+    msn_entertainment: 177271770724
+    wonderwall: 61348233862
+    rolling_stone: 10664530778
+  sports:
+    fox_sports: 112638779551
+    nfl: 68680511262
+    mlb: 5768707450
+    major_league_soccer: 9733218886
+    nhl: 61652252465
+    espn: 104266592953439
+  lifestyle:
+    msn_lifestyle: 150136516896
+    food_network: 20534666726
+    better_home_and_gardens: 72571226018
+    vogue: 42933792278
+    gq: 7962048097
+    epicurious: 12770210203
+    delish: 41937927436
+    apartment_therapy: 30065974282
+    glo: 111180888903308
+  money:
+    msn_money: 71394952964
+    wall_street_journal: 8304333127
+    cnbc: 97212224368
+  miscellaneous:
+    npr: 10643211755
+    engadget: 5738237369
+    mashable: 18807449704
+    ted: 29092950651
+    tech_crunch: 8062627951
+    the_daily_beast: 37763684202
+    bill_and_melinda_gates_foundation: 11309713071
+    tree_hugger: 17890180291
+    inhabitat: 14994122055

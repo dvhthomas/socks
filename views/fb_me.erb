@@ -1,0 +1,32 @@
+<h2>Welcome, <%=@info_pane.user_name%></h2>
+<p>Here are the top items from your news feed. The more your friends comment and like something, the higher up the list it gets. The exact list is determined like this: from all of the posts by my friends in the last 7 days, get me the top 9 where the sum of likes and comments is the highest, order the results from highest likes+comment score to lowest.</p>
+<p class="large">See your friends in a <a href="/fb/friends">photo list</a>.</p>
+<p class="quiet">(raw xml <a href="/infopane.xml">results</a>)</p>
+<ol>
+<% @info_pane.stories.each do |s| %>
+	<li>
+	<div class="popular-item">
+        <%if s.type == 'photo'%>
+                <%= partial(:ip_photo, :locals => {:item => s}) %>
+        <%elsif s.type == 'video'%>
+                <%= partial(:ip_video, :locals => {:item => s}) %>
+        <%elsif s.type == 'link'%>
+                <%= partial(:ip_link, :locals => {:item => s}) %>
+        <%else%>
+                <%= partial(:ip_status, :locals => {:item => s}) %>
+        <%end%> 
+        <%= partial(:ip_meta, :locals => {:item => s}) %>
+	</div>
+    </li>
+<%end%>
+</ol>
+<div class="quiet">
+	<h3>Facebook Query Language (FQL)</h3>
+	<p><%= @info_pane.fql_feed %></p>
+	<p><%= @info_pane.fql_authors %></p>
+	<p><%= @info_pane.fql_user_targets %></p>
+	<p><%= @info_pane.fql_page_targets %></p>
+	<p><%= @info_pane.fql_photo %></p>
+  <h4>OAuth Token</h4>
+	<p><%= @token %></p>
+</div>

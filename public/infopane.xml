@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fql_multiquery_response xmlns="http://api.facebook.com/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://api.facebook.com/1.0/ http://api.facebook.com/1.0/facebook.xsd" list="true">
+  <fql_result>
+    <name>feed</name>
+    <fql_result_set list="true">
+      <stream_post>
+        <post_id>644845713_140917552622506</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>No church.  Someone decided to smash my car window in last night.  Not gonna lie, Watts and I are quickly souring on city living.  And after the theft we discovered yesterday at our neighbor's house that we take care of, I have to say that there are some people with some serious balls to do what they're doing.</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>27</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=140917552622506&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1287932955</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/140917552622506</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1064953557_1557165803469</post_id>
+        <actor_id>1064953557</actor_id>
+        <target_id xsi:nil="true"/>
+        <message/>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://www.facebook.com/photo.php?fbid=1557158603289&amp;set=a.1450903026966.2061587.1064953557</href>
+              <alt>My last night in the Bay Area I get this amazing gift, a rooftop view from the widows walk at the Berkeley mansion as the moon sets over San Francisco!</alt>
+              <type>photo</type>
+              <src>http://photos-f.ak.fbcdn.net/hphotos-ak-snc4/hs775.snc4/67536_1557158603289_1064953557_31543208_6295759_s.jpg</src>
+              <photo>
+                <aid>4573940699075933459</aid>
+                <pid>4573940699105415080</pid>
+                <owner>1064953557</owner>
+                <index>144</index>
+                <width>1024</width>
+                <height>685</height>
+              </photo>
+            </stream_media>
+            <stream_media>
+              <href>http://www.facebook.com/photo.php?fbid=1557002479386&amp;set=a.1450903026966.2061587.1064953557</href>
+              <alt>Dad preparing to dig a hole, ranch style!</alt>
+              <type>photo</type>
+              <src>http://photos-e.ak.fbcdn.net/hphotos-ak-snc4/hs921.snc4/73434_1557002479386_1064953557_31542814_4411521_s.jpg</src>
+              <photo>
+                <aid>4573940699075933459</aid>
+                <pid>4573940699105414686</pid>
+                <owner>1064953557</owner>
+                <index>64</index>
+                <width>1024</width>
+                <height>685</height>
+              </photo>
+            </stream_media>
+            <stream_media>
+              <href>http://www.facebook.com/photo.php?fbid=1557003519412&amp;set=a.1450903026966.2061587.1064953557</href>
+              <alt>One of the pigeon hawks I watched hunt at the bird avery outside my window on the 20 acres where I house sat this summer.</alt>
+              <type>photo</type>
+              <src>http://photos-a.ak.fbcdn.net/hphotos-ak-snc4/hs898.snc4/73158_1557003519412_1064953557_31542816_4516740_s.jpg</src>
+              <photo>
+                <aid>4573940699075933459</aid>
+                <pid>4573940699105414688</pid>
+                <owner>1064953557</owner>
+                <index>65</index>
+                <width>498</width>
+                <height>720</height>
+              </photo>
+            </stream_media>
+          </media>
+          <name>Summer Westcoast Sojourn 2010</name>
+          <href>http://www.facebook.com/album.php?aid=2061587&amp;id=1064953557</href>
+          <caption>82 new photos</caption>
+          <description/>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zz/r/StEh3RhPvjk.gif</icon>
+          <fb_object_type>album</fb_object_type>
+          <fb_object_id>4573940699075933459</fb_object_id>
+        </attachment>
+        <comments>
+          <count>13</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=1450903026966&amp;class=LikeManager</href>
+          <count>8</count>
+        </likes>
+        <created_time>1287947740</created_time>
+        <permalink>http://www.facebook.com/album.php?aid=2061587&amp;id=1064953557&amp;comments</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>763697188_161719520514958</post_id>
+        <actor_id>763697188</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Cold rainy day in Seattle! Got up too early on a Sunday and conquered Dawg Dash 10k run. My running shoes will take a long time to dry but I finished under the time I anticipated I'd complete it...now time for jammies and lazy day on the couch.</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=161719520514958&amp;class=LikeManager</href>
+          <count>10</count>
+        </likes>
+        <created_time>1287949228</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=161719520514958&amp;id=763697188</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>661935185_113595035370309</post_id>
+        <actor_id>661935185</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>I soooo want to travel right now...</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://matadornetwork.com/goods/book-review-make-the-most-of-your-time-on-earth/</href>
+              <alt/>
+              <type>link</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=890035e35453ea90c41e2e6653e9b8c7&amp;w=90&amp;h=90&amp;url=http%3A%2F%2Fcdn1.matadornetwork.com%2Fmatadorgoods.com%2Fdocs%2Fwp-content%2Fimages%2Fposts%2F20101025-Book02.jpg</src>
+            </stream_media>
+          </media>
+          <name>Book Review: Make the Most of Your Time on Earth</name>
+          <href>http://matadornetwork.com/goods/book-review-make-the-most-of-your-time-on-earth/</href>
+          <caption>matadornetwork.com</caption>
+          <description>1,000 reasons on 608 glossy pages why my wanderlust can never be cured.</description>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zD/r/aS8ecmYRys0.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>8</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=113595035370309&amp;class=LikeManager</href>
+          <count>5</count>
+        </likes>
+        <created_time>1288041402</created_time>
+        <permalink>http://www.facebook.com/lola.akinmade/posts/113595035370309</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_106256206107130</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Oh Browns, thank you for bringing me some happiness today!  What do you have to say about them now, Erik Johnson?  :)</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>8</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=106256206107130&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287951507</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/106256206107130</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>61204441_113599078704464</post_id>
+        <actor_id>61204441</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>This is pretty excellent.</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://muslimswearingthings.tumblr.com/</href>
+              <alt/>
+              <type>link</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=4f09fcfbd0c1fb6c61c03701b1ec8f13&amp;w=90&amp;h=90&amp;url=http%3A%2F%2F30.media.tumblr.com%2Ftumblr_lape8vzMB41qet98po1_250.jpg</src>
+            </stream_media>
+          </media>
+          <name>Pictures of Muslims Wearing Things</name>
+          <href>http://muslimswearingthings.tumblr.com/</href>
+          <caption>muslimswearingthings.tumblr.com</caption>
+          <description>Former NPR analyst Juan Williams, among other ignorant people, has an irrational fear of Muslims, and thinks you can identify them based on what they look like. Here I will post pictures of Muslims...</description>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zD/r/aS8ecmYRys0.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>4</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=113599078704464&amp;class=LikeManager</href>
+          <count>5</count>
+        </likes>
+        <created_time>1287858964</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=113599078704464&amp;id=61204441</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>679897284_136159129768283</post_id>
+        <actor_id>679897284</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>SPOOKTACULAR!!!
+TONIGHT!!!
+MEET ME AND OtHERS AT THE BONFIRE AT 6PM (if we're not friends dont bother)</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>8</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=136159129768283&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1287862330</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=136159129768283&amp;id=679897284</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_156426891063460</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Bengals game is quite exciting.  I'd still rather be watching the Browns though!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>7</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=156426891063460&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287949220</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/156426891063460</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>641471067_490662951067</post_id>
+        <actor_id>641471067</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Ugh.  Snow.</message>
+        <attachment>
+          <media list="true"/>
+          <description/>
+          <properties list="true"/>
+          <icon>http://photos-d.ak.fbcdn.net/photos-ak-snc1/v27562/23/2231777543/app_2_2231777543_9553.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>8</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=490662951067&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1288009443</created_time>
+        <permalink>http://www.facebook.com/janet.norman/posts/490662951067</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>100000142290463_170777409603668</post_id>
+        <actor_id>100000142290463</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Pendant lights are cool!</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://www.facebook.com/photo.php?fbid=170777399603669&amp;set=a.100142040000539.104.100000142290463</href>
+              <alt>Pendant lights are cool!</alt>
+              <type>photo</type>
+              <src>http://photos-c.ak.fbcdn.net/hphotos-ak-ash2/hs054.ash2/36043_170777399603669_100000142290463_616044_3186098_s.jpg</src>
+              <photo>
+                <aid>100000142290463_104</aid>
+                <pid>100000142290463_616044</pid>
+                <owner>100000142290463</owner>
+                <index>1</index>
+                <width>604</width>
+                <height>453</height>
+              </photo>
+            </stream_media>
+          </media>
+          <description/>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zx/r/og8V99JVf8G.gif</icon>
+          <fb_object_type>photo</fb_object_type>
+          <fb_object_id>100000142290463_616044</fb_object_id>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=170777399603669&amp;class=LikeManager</href>
+          <count>4</count>
+        </likes>
+        <created_time>1287877983</created_time>
+        <permalink>http://www.facebook.com/photo.php?fbid=170777399603669&amp;set=a.100142040000539.104.100000142290463&amp;comments</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1489955946_158062990901212</post_id>
+        <actor_id>1489955946</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>(generic, pointless hate status that could be aimed at anyone but if you're reading this then it's probably YOU)</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>4</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=158062990901212&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287960071</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=158062990901212&amp;id=1489955946</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1070502886_134657939920080</post_id>
+        <actor_id>1070502886</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>You rock, Juan Uribe!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=134657939920080&amp;class=LikeManager</href>
+          <count>6</count>
+        </likes>
+        <created_time>1287888971</created_time>
+        <permalink>http://www.facebook.com/jonathan.fishleder/posts/134657939920080</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>784600491_169787586371763</post_id>
+        <actor_id>784600491</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>what would you ask Quest Crew? excited to work with America's Best Dance Crew tomorrow =)</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=169787586371763&amp;class=LikeManager</href>
+          <count>4</count>
+        </likes>
+        <created_time>1287987137</created_time>
+        <permalink>http://www.facebook.com/humanswitch/posts/169787586371763</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>763697188_141260862588524</post_id>
+        <actor_id>763697188</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>I'm going to be a couch potato for Halloween. No costume needed :-)</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=141260862588524&amp;class=LikeManager</href>
+          <count>4</count>
+        </likes>
+        <created_time>1288041928</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=141260862588524&amp;id=763697188</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1032101732_1502576557677</post_id>
+        <actor_id>1032101732</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Awesome Babysitting!</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://www.facebook.com/photo.php?fbid=1502576477675&amp;set=a.1062324031639.2010377.1032101732</href>
+              <alt>Awesome Babysitting!</alt>
+              <type>photo</type>
+              <src>http://photos-g.ak.fbcdn.net/hphotos-ak-snc4/hs903.snc4/71691_1502576477675_1032101732_31110673_6599492_s.jpg</src>
+              <photo>
+                <aid>4432843185086967049</aid>
+                <pid>4432843185116067345</pid>
+                <owner>1032101732</owner>
+                <index>1</index>
+                <width>604</width>
+                <height>453</height>
+              </photo>
+            </stream_media>
+          </media>
+          <description/>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zx/r/og8V99JVf8G.gif</icon>
+          <fb_object_type>photo</fb_object_type>
+          <fb_object_id>4432843185116067345</fb_object_id>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=1502576477675&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287852979</created_time>
+        <permalink>http://www.facebook.com/photo.php?fbid=1502576477675&amp;set=a.1062324031639.2010377.1032101732&amp;comments</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1489955946_140986442615121</post_id>
+        <actor_id>1489955946</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>lol i think family guy was based on this :)</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://www.youtube.com/watch?v=021PPpmwX98&amp;feature=related</href>
+              <alt>second family guy pilot from 1996</alt>
+              <type>video</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=693dece0de04becefdbe8d36191cff20&amp;w=130&amp;h=130&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F021PPpmwX98%2F0.jpg</src>
+              <video>
+                <display_url>http://www.youtube.com/watch?v=021PPpmwX98&amp;feature=related</display_url>
+                <source_url>http://www.youtube.com/v/021PPpmwX98&amp;autoplay=1</source_url>
+                <owner>1489955946</owner>
+                <source_type>html</source_type>
+                <created_time>1287949665</created_time>
+              </video>
+            </stream_media>
+          </media>
+          <name>second family guy pilot from 1996</name>
+          <href>http://www.youtube.com/watch?v=021PPpmwX98&amp;feature=related</href>
+          <caption>www.youtube.com</caption>
+          <description>the second family guy pilot from 1996..never piked up</description>
+          <properties list="true"/>
+          <icon>http://static.ak.fbcdn.net/rsrc.php/zj/r/v2OnaTyTQZE.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=140986442615121&amp;class=LikeManager</href>
+          <count>3</count>
+        </likes>
+        <created_time>1287949665</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=140986442615121&amp;id=1489955946</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>753240369_162314483789785</post_id>
+        <actor_id>753240369</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>On board the redeye - hoping to catch at least 3 hours of sleep before landing in Mexico City. Zzzzzz ...</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=162314483789785&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287991786</created_time>
+        <permalink>http://www.facebook.com/kristyduncan/posts/162314483789785</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>662288763_162380913783611</post_id>
+        <actor_id>662288763</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Drinking my bodyweight in tea in England. Get into Ireland on Wed; look fwd to catching up with some of you then!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=162380913783611&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1288001842</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=162380913783611&amp;id=662288763</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>661935185_136773133041034</post_id>
+        <actor_id>661935185</actor_id>
+        <target_id xsi:nil="true"/>
+        <message/>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://lolaakinmade.com/2010/10/24/irish-photo-files-iii-780-years-and-counting/</href>
+              <alt/>
+              <type>link</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=b75bc40929a0d10214924de883cd0b4b&amp;w=90&amp;h=90&amp;url=http%3A%2F%2Fwww.lemurworks.com%2Flola%2Ftravel%2Fireland%2F2010%2Fashford%2Fphotos%2FIreland_596.jpg</src>
+            </stream_media>
+          </media>
+          <name>Geotraveler's Niche  » Blog Archive   » Irish Photo Files III: 780 Years And Counting</name>
+          <href>http://lolaakinmade.com/2010/10/24/irish-photo-files-iii-780-years-and-counting/</href>
+          <caption>lolaakinmade.com</caption>
+          <description>I shy away from really old buildings (as in 50 years or older, talk  less of 780+ years old) for many reasons. Mostly because I’d rather not  share my room with previous residents from generations past. So all senses were heightened even before I stepped into the impressive Ashford Castle located </description>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zD/r/aS8ecmYRys0.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=136773133041034&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287965465</created_time>
+        <permalink>http://www.facebook.com/lola.akinmade/posts/136773133041034</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_159130154127768</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>ever have a night where everything just creeps you out?  I like my old home but it makes a lot of weird noises.  I'm ready for Watts to come home!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=159130154127768&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1288062231</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/159130154127768</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>661935185_159438600757582</post_id>
+        <actor_id>661935185</actor_id>
+        <target_id xsi:nil="true"/>
+        <message/>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://danwaldschmidt.com/2010/10/22/23-ways-to-stop-pretending-you-know-everything-an-edgy-conversation/</href>
+              <alt/>
+              <type>link</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=dcf68b471d545b581302274f5bf58251&amp;w=90&amp;h=90&amp;url=http%3A%2F%2Fdanwaldschmidt.com%2Fwp-content%2Fthemes%2Fpixel%2Fimages%2Fget-the-advice.jpg</src>
+            </stream_media>
+          </media>
+          <name>23+ Ways to Stop Pretending You Know Everything. [an edgy conversation]</name>
+          <href>http://danwaldschmidt.com/2010/10/22/23-ways-to-stop-pretending-you-know-everything-an-edgy-conversation/</href>
+          <caption>danwaldschmidt.com</caption>
+          <description>23+ Ways to Stop Pretending You Know Everything. [an edgy conversation]</description>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zD/r/aS8ecmYRys0.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=159438600757582&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287945344</created_time>
+        <permalink>http://www.facebook.com/lola.akinmade/posts/159438600757582</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>661935185_164871320208515</post_id>
+        <actor_id>661935185</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Proactivity shot taken. Ready for the week.</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=164871320208515&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1288024652</created_time>
+        <permalink>http://www.facebook.com/lola.akinmade/posts/164871320208515</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>763697188_165066380188679</post_id>
+        <actor_id>763697188</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Oohh...getting hot running under the cold rain this morning = feverish this evening.</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>4</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=165066380188679&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1287974670</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=165066380188679&amp;id=763697188</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1626387841_161658030535355</post_id>
+        <actor_id>1626387841</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>is in DC. But just for a 1-hour layover :-(</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=161658030535355&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1288033357</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=161658030535355&amp;id=1626387841</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_158379714202429</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Finally have Halloween costume plans!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>4</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=158379714202429&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1288044412</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/158379714202429</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1064953557_106323432767705</post_id>
+        <actor_id>1064953557</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>is excited about all of the visions and ideas that I am activating in my life.</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=106323432767705&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287861955</created_time>
+        <permalink>http://www.facebook.com/natalie.cutsforth/posts/106323432767705</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>518642351_163398670352032</post_id>
+        <actor_id>518642351</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>rain rain go away</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=163398670352032&amp;class=LikeManager</href>
+          <count>3</count>
+        </likes>
+        <created_time>1287872178</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=163398670352032&amp;id=518642351</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>564354049_156330051069976</post_id>
+        <actor_id>564354049</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Picked up knitting after a about a 8 year hiatus. Like riding a bike. Need a cheap non-messy creative outlet. Thank you Robin for teaching me years ago!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=156330051069976&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1287976783</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=156330051069976&amp;id=564354049</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>677577198_442349212198</post_id>
+        <actor_id>679897284</actor_id>
+        <target_id>677577198</target_id>
+        <message>idc... uhh... ur annoying........................................... lame.......... and uh... ur my sister... (unfortunatly) :)</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>3</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=442349212198&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1287857935</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=442349212198&amp;id=677577198</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>61204441_106042232795630</post_id>
+        <actor_id>61204441</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>is packing. Santa Barbara tomorrow!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>1</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=106042232795630&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287878707</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=106042232795630&amp;id=61204441</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>567336539_170534709630004</post_id>
+        <actor_id>567336539</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>I once heard a song played on the radio in the 70's that was so bad it was memorable.  I have just found it on youtube.  I have just been sat in front of the laptop in tears, never mind LOL...   Have a listen, the chorus after the key change is the best bit.</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://www.youtube.com/view_play_list?p=5E2E694ED6F9B7DE&amp;playnext=1&amp;v=Zg1xXA09FMc</href>
+              <alt>Renee &amp; Renato - It's a lovely Day</alt>
+              <type>video</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=15505b061ce31ecd3d6e7f15f3153be1&amp;w=130&amp;h=130&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FZg1xXA09FMc%2F0.jpg</src>
+              <video>
+                <display_url>http://www.youtube.com/view_play_list?p=5E2E694ED6F9B7DE&amp;playnext=1&amp;v=Zg1xXA09FMc</display_url>
+                <source_url>http://www.youtube.com/v/Zg1xXA09FMc&amp;autoplay=1</source_url>
+                <owner>567336539</owner>
+                <source_type>html</source_type>
+                <created_time>1287929025</created_time>
+              </video>
+            </stream_media>
+          </media>
+          <name>Renee &amp; Renato - It's a lovely Day</name>
+          <href>http://www.youtube.com/view_play_list?p=5E2E694ED6F9B7DE&amp;playnext=1&amp;v=Zg1xXA09FMc</href>
+          <caption>www.youtube.com</caption>
+          <description>B-side of &quot;Just one more Kiss&quot;; what an ugly recording session this must have been</description>
+          <properties list="true"/>
+          <icon>http://static.ak.fbcdn.net/rsrc.php/zj/r/v2OnaTyTQZE.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=170534709630004&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1287929025</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=170534709630004&amp;id=567336539</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>683696267_159074510799151</post_id>
+        <actor_id>683696267</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Oh my effing goodness!! I should treat this like NASCAR and just take a nap!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=159074510799151&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287954022</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=159074510799151&amp;id=683696267</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1626387841_113248552072763</post_id>
+        <actor_id>1626387841</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>is eating seafood in Charleston, SC. Yum!!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>1</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=113248552072763&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287936860</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=113248552072763&amp;id=1626387841</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>763697188_124779490912935</post_id>
+        <actor_id>763697188</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>You can count on me like 1 2 3 ♫ ♪ I'll be there...♫ ♪ And I know when I need it I can count on you like 4 3 2 ♫ ♪ And you'll be there...♫ ♪ Cause that's what friends are supposed to do.... ♫ ♪</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>1</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=124779490912935&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1288041251</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=124779490912935&amp;id=763697188</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>727481823_447299121823</post_id>
+        <actor_id>727481823</actor_id>
+        <target_id xsi:nil="true"/>
+        <message/>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://www.facebook.com/video/video.php?v=447299121823</href>
+              <alt>Logan - Flag Football [HQ]</alt>
+              <type>video</type>
+              <src>http://vthumb.ak.fbcdn.net/hvthumb-ak-ash2/hs645.ash2/51040_447299871823_447299121823_22254_2457_t.jpg</src>
+              <video>
+                <display_url>http://www.facebook.com/video/video.php?v=447299121823</display_url>
+                <source_url>http://video.l3.fbcdn.net/cfs-l3-snc4/77201/914/447299121823_62675.mp4</source_url>
+                <owner>727481823</owner>
+                <source_type>raw</source_type>
+                <created_time>1288060940</created_time>
+              </video>
+            </stream_media>
+          </media>
+          <name>Logan - Flag Football [HQ]</name>
+          <href>http://www.facebook.com/video/video.php?v=447299121823</href>
+          <description/>
+          <properties list="true">
+            <stream_property>
+              <name>Length</name>
+              <text>0:59</text>
+            </stream_property>
+          </properties>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zD/r/DggDhA4z4tO.gif</icon>
+          <fb_object_type>video</fb_object_type>
+          <fb_object_id>447299121823</fb_object_id>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=447299121823&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1288060940</created_time>
+        <permalink>http://www.facebook.com/video/video.php?v=447299121823&amp;comments</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_169702683042287</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>is still under-the-weather.  Sudafed allergy/sinus combo is pretty good stuff though!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=169702683042287&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1288055468</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/169702683042287</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1064953557_169411683071981</post_id>
+        <actor_id>1064953557</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>photo of Mike Rock and Philippe Piatkiewitz was printed with my September article in North Denver News http://www.scribd.com/doc/38905660/Sept-10-NDN-p1-12-Final</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://www.scribd.com/doc/38905660/Sept-10-NDN-p1-12-Final</href>
+              <alt/>
+              <type>link</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=815f858ed7cc993aeb846bf1ade5fb85&amp;w=90&amp;h=90&amp;url=http%3A%2F%2Fimgv2-4.scribdassets.com%2Fimg%2Fword_document%2F38905660%2F164x212%2F7fde3966fa%2F1286475516</src>
+            </stream_media>
+          </media>
+          <name>Sept 10  NDN p1-12 Final</name>
+          <href>http://www.scribd.com/doc/38905660/Sept-10-NDN-p1-12-Final</href>
+          <caption>www.scribd.com</caption>
+          <description>Scribd is the world's largest social reading and publishing site.</description>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zD/r/aS8ecmYRys0.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=169411683071981&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287977054</created_time>
+        <permalink>http://www.facebook.com/natalie.cutsforth/posts/169411683071981</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1626387841_170430516303717</post_id>
+        <actor_id>1626387841</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>is back in Indy. Which means I have to go to work tomorrow. *sigh*</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>2</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=170430516303717&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1288048075</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=170430516303717&amp;id=1626387841</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_141389425909075</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>I know I'm a little biased but Reggie Hodges' run is my favorite highlight of the day!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=141389425909075&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1287976630</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/141389425909075</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>753240369_10150305647975370</post_id>
+        <actor_id>753240369</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>has uploaded a photo to Flickr</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://us.rd.yahoo.com//Updates/y.flickr/flickrsingleitem/SIG=19rsr791t;_ylc=X3oDMTU0bHNuMWVmBElfYWd1aWQDT1hUM0xZWkNCWUhMWUdDQUtIWFJLUDRFRFkESV9jZ3VpZAMESV9jcHJvcAMxMDEESV91Y250eAMESV91c3JjA3kuZmxpY2tyBElfdXN1aWQDL3Bob3RvLzUxMTU1ODI3OTkESV91dHlwZQNmbGlja3JzaW5nbGVpdGVtBF9TAzIwMjM0MzUyNjEEZXhwSUQDMTQyBHhmb3JtSUQD/*http%3A//us.lrd.yahoo.com/SIG=11ok5uf1l/**http%3A//www.flickr.com/photos/k-dj/5115582799/%3Fv=1</href>
+              <alt/>
+              <type>link</type>
+              <src>http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=90376669494&amp;v=1&amp;size=z&amp;cksum=15295a0e437296c72744575c719d7614&amp;src=http%3A%2F%2Ffarm2.static.flickr.com%2F1231%2F5115582799_0ddc03b428_s.jpg</src>
+            </stream_media>
+          </media>
+          <name>Arrival In Oaxaca</name>
+          <href>http://us.rd.yahoo.com//Updates/y.flickr/flickrsingleitem/SIG=19rsr791t;_ylc=X3oDMTU0bHNuMWVmBElfYWd1aWQDT1hUM0xZWkNCWUhMWUdDQUtIWFJLUDRFRFkESV9jZ3VpZAMESV9jcHJvcAMxMDEESV91Y250eAMESV91c3JjA3kuZmxpY2tyBElfdXN1aWQDL3Bob3RvLzUxMTU1ODI3OTkESV91dHlwZQNmbGlja3JzaW5nbGVpdGVtBF9TAzIwMjM0MzUyNjEEZXhwSUQDMTQyBHhmb3JtSUQD/*http%3A//us.lrd.yahoo.com/SIG=11ok5uf1l/**http%3A//www.flickr.com/photos/k-dj/5115582799/%3Fv=1</href>
+          <description/>
+          <properties list="true">
+            <stream_property>
+              <name>Tags</name>
+              <text>hipstamatic, johnslens, inas1969film</text>
+            </stream_property>
+            <stream_property>
+              <name>More</name>
+              <text>View k-dj s photostream</text>
+              <href>http://us.rd.yahoo.com//Updates/y.flickr/flickrsingleitem/SIG=19gluq9dg;_ylc=X3oDMTU0bHNuMWVmBElfYWd1aWQDT1hUM0xZWkNCWUhMWUdDQUtIWFJLUDRFRFkESV9jZ3VpZAMESV9jcHJvcAMxMDEESV91Y250eAMESV91c3JjA3kuZmxpY2tyBElfdXN1aWQDL3Bob3RvLzUxMTU1ODI3OTkESV91dHlwZQNmbGlja3JzaW5nbGVpdGVtBF9TAzIwMjM0MzUyNjEEZXhwSUQDMTQyBHhmb3JtSUQD/*http%3A//us.lrd.yahoo.com/SIG=11di0u62t/**http%3A//www.flickr.com/photos/k-dj/%3Fv=1</href>
+            </stream_property>
+          </properties>
+          <icon>http://photos-e.ak.fbcdn.net/photos-ak-snc1/v43/90/90376669494/app_2_90376669494_1016.gif</icon>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=10150305647975370&amp;class=LikeManager</href>
+          <count>2</count>
+        </likes>
+        <created_time>1288051562</created_time>
+        <permalink>http://www.facebook.com/kristyduncan/posts/10150305647975370</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>503550174_106474156084519</post_id>
+        <actor_id>503550174</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Steak and ale pie. Meat and drink in one convenient package...</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>1</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=106474156084519&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1287913130</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=106474156084519&amp;id=503550174</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>661935185_112928605438721</post_id>
+        <actor_id>661935185</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Support this uplifting project by Gail Mooney</message>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://kck.st/cTApuP</href>
+              <alt>Kickstarter &gt;&gt; Opening Our Eyes - a film about people making a positive difference in the world by G</alt>
+              <type>video</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=eaabe44590e35f67218dc7622d7778ba&amp;w=130&amp;h=130&amp;url=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fphotos%2F13506%2FGail_Mooney_-5899.med.jpg</src>
+              <video>
+                <display_url>http://kck.st/cTApuP</display_url>
+                <source_url>http://www.kickstarter.com/swf/player.swf?file=http%3A%2F%2Fs3.amazonaws.com%2Fksr-videos%2Fencodings%2F19991%2FTrailer_Rough_Cut_Final2_640x360.original.mp4</source_url>
+                <owner>661935185</owner>
+                <source_type>html</source_type>
+                <created_time>1287869593</created_time>
+              </video>
+            </stream_media>
+          </media>
+          <name>Kickstarter &gt;&gt; Opening Our Eyes - a film about people making a positive difference in the world by G</name>
+          <href>http://kck.st/cTApuP</href>
+          <caption>kck.st</caption>
+          <description>Gail Mooney and Erin Kelly is raising funds for Opening Our Eyes - a film about people making a positive difference in the world on Kickstarter!    A film shot on six continents about people who are creating positive change in the world. Looking to inspire and motivate others.</description>
+          <properties list="true"/>
+          <icon>http://static.ak.fbcdn.net/rsrc.php/zj/r/v2OnaTyTQZE.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=112928605438721&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287869593</created_time>
+        <permalink>http://www.facebook.com/lola.akinmade/posts/112928605438721</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_101125403290729</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>my sinuses... :(</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>1</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=101125403290729&amp;class=LikeManager</href>
+          <count>0</count>
+        </likes>
+        <created_time>1288008958</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/101125403290729</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>600130174_10150309990675175</post_id>
+        <actor_id>600130174</actor_id>
+        <target_id xsi:nil="true"/>
+        <message/>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://feedproxy.google.com/~r/blogspot/IQhPE/~3/DTV5CBA6KTs/mom-dad-in-france.html</href>
+              <alt/>
+              <type>link</type>
+              <src>http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=45439413586&amp;v=1&amp;size=z&amp;cksum=17fc26533df7f18b8a12a5b98722151f&amp;src=http%3A%2F%2F3.bp.blogspot.com%2F_gChTt4DzOb0%2FTMTGjx4l1FI%2FAAAAAAAADG4%2FSlPM-s2oNC4%2Fs72-c%2FDKY-1808-702409.jpg</src>
+            </stream_media>
+          </media>
+          <name>Mom &amp; Dad in France</name>
+          <href>http://feedproxy.google.com/~r/blogspot/IQhPE/~3/DTV5CBA6KTs/mom-dad-in-france.html</href>
+          <description>good lookin' folks enjoying a recent trip to France :)</description>
+          <properties list="true">
+            <stream_property>
+              <name>Source</name>
+              <text>KevBlog</text>
+              <href>http://caobhin.blogspot.com/</href>
+            </stream_property>
+            <stream_property>
+              <name>Published</name>
+              <text>2010-10-24 23:51:00 GMT</text>
+            </stream_property>
+          </properties>
+          <icon>http://photos-d.ak.fbcdn.net/photos-ak-snc1/v43/70/45439413586/app_2_45439413586_6053.gif</icon>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=10150309990675175&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287964307</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=10150309990675175&amp;id=600130174</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1489955946_137563026292568</post_id>
+        <actor_id>1489955946</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>webber! u were supposed to win not stick it in the wall :/</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=137563026292568&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287920225</created_time>
+        <permalink>http://www.facebook.com/permalink.php?story_fbid=137563026292568&amp;id=1489955946</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_155247531179186</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Church!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=155247531179186&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287927209</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/155247531179186</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>641471067_490010641067</post_id>
+        <actor_id>641471067</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Rain, rain go away... I'm getting too old to stay up this late to watch a race.  Might have to break down and record :-(</message>
+        <attachment>
+          <media list="true"/>
+          <description/>
+          <properties list="true"/>
+          <icon>http://photos-d.ak.fbcdn.net/photos-ak-snc1/v27562/23/2231777543/app_2_2231777543_9553.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=490010641067&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287901382</created_time>
+        <permalink>http://www.facebook.com/janet.norman/posts/490010641067</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>644845713_164711986880247</post_id>
+        <actor_id>644845713</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Just enjoyed a great lunch with some Old Girls at the Butter Cafe.  
+
+GO BROWNS!</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=164711986880247&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1287945421</created_time>
+        <permalink>http://www.facebook.com/Kristen.Johnson.Pertner/posts/164711986880247</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>661935185_170265526322961</post_id>
+        <actor_id>661935185</actor_id>
+        <target_id xsi:nil="true"/>
+        <message/>
+        <attachment>
+          <media list="true">
+            <stream_media>
+              <href>http://matadornetwork.com/nights/wasabi-bugs-and-musk-15-strange-candies-from-around-the-world/</href>
+              <alt/>
+              <type>link</type>
+              <src>http://external.ak.fbcdn.net/safe_image.php?d=a9511f71574ff312433bb7af5e4a4092&amp;w=90&amp;h=90&amp;url=http%3A%2F%2Fcdn1.matadornetwork.com%2Fmatadornights.com%2Fdocs%2Fwp-content%2Fimages%2Fposts%2F20101021-bugs.jpg</src>
+            </stream_media>
+          </media>
+          <name>Wasabi, Bugs, and Musk: 15 Strange Candies from Around the World</name>
+          <href>http://matadornetwork.com/nights/wasabi-bugs-and-musk-15-strange-candies-from-around-the-world/</href>
+          <caption>matadornetwork.com</caption>
+          <description>Wasabi, bacon, bugs, octopus and pepper are all flavors of some of the world's strangest candy. How many of them would you try?</description>
+          <properties list="true"/>
+          <icon>http://b.static.ak.fbcdn.net/rsrc.php/zD/r/aS8ecmYRys0.gif</icon>
+          <fb_object_type/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=170265526322961&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1288019740</created_time>
+        <permalink>http://www.facebook.com/lola.akinmade/posts/170265526322961</permalink>
+      </stream_post>
+      <stream_post>
+        <post_id>1064953557_137422819639836</post_id>
+        <actor_id>1064953557</actor_id>
+        <target_id xsi:nil="true"/>
+        <message>Bisbee &amp; i are Kid sitting for the Hoogwaters while Sjoerd &amp; Susanne are at a concert, of course they want to stay up later than the are supposed to but were having fun</message>
+        <attachment>
+          <description/>
+        </attachment>
+        <comments>
+          <count>0</count>
+        </comments>
+        <likes>
+          <href>http://www.facebook.com/social_graph.php?node_id=137422819639836&amp;class=LikeManager</href>
+          <count>1</count>
+        </likes>
+        <created_time>1288060299</created_time>
+        <permalink>http://www.facebook.com/natalie.cutsforth/posts/137422819639836</permalink>
+      </stream_post>
+    </fql_result_set>
+  </fql_result>
+  <fql_result>
+    <name>authors</name>
+    <fql_result_set list="true">
+      <profile>
+        <id>644845713</id>
+        <url>http://www.facebook.com/Kristen.Johnson.Pertner</url>
+        <name>Kristen Kj Pertner</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs178.ash2/41777_644845713_6559_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>1064953557</id>
+        <url>http://www.facebook.com/natalie.cutsforth</url>
+        <name>Natalie Cutsforth</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs476.snc4/49951_1064953557_2801118_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>763697188</id>
+        <url>http://www.facebook.com/profile.php?id=763697188</url>
+        <name>Leah Llamas</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs467.snc4/49230_763697188_5510801_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>661935185</id>
+        <url>http://www.facebook.com/lola.akinmade</url>
+        <name>Lola Akinmade</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs169.ash2/41525_661935185_6619107_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>61204441</id>
+        <url>http://www.facebook.com/profile.php?id=61204441</url>
+        <name>Eva Holland</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs224.ash2/48977_61204441_9245_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>679897284</id>
+        <url>http://www.facebook.com/profile.php?id=679897284</url>
+        <name>Lillie 愛 Oxley</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs175.ash2/41709_679897284_2099921_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>641471067</id>
+        <url>http://www.facebook.com/janet.norman</url>
+        <name>Janet Fetterley Norman</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs349.snc4/41528_641471067_9177_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>100000142290463</id>
+        <url>http://www.facebook.com/profile.php?id=100000142290463</url>
+        <name>Mark Seastead</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs169.ash2/41532_100000142290463_2769134_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>1489955946</id>
+        <url>http://www.facebook.com/profile.php?id=1489955946</url>
+        <name>James Paterson</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs332.snc4/41655_1489955946_1834_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>1070502886</id>
+        <url>http://www.facebook.com/jonathan.fishleder</url>
+        <name>Jonathan Fishleder</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs451.snc4/49534_1070502886_3040200_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>784600491</id>
+        <url>http://www.facebook.com/humanswitch</url>
+        <name>Dana Wu</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs338.snc4/41768_784600491_5673_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>1032101732</id>
+        <url>http://www.facebook.com/profile.php?id=1032101732</url>
+        <name>Monique Johnson Lewis</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs321.snc4/41379_1032101732_1724_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>753240369</id>
+        <url>http://www.facebook.com/kristyduncan</url>
+        <name>Kristy Duncan</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs324.snc4/41431_753240369_2851_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>662288763</id>
+        <url>http://www.facebook.com/profile.php?id=662288763</url>
+        <name>Eilish Lancaster</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs266.snc3/23068_662288763_2704_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>1626387841</id>
+        <url>http://www.facebook.com/profile.php?id=1626387841</url>
+        <name>Marianne Cardwell</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs455.snc4/49863_1626387841_1028_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>518642351</id>
+        <url>http://www.facebook.com/profile.php?id=518642351</url>
+        <name>Charlene Peluso</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs472.snc4/49626_518642351_7672_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>564354049</id>
+        <url>http://www.facebook.com/profile.php?id=564354049</url>
+        <name>Amy Congdon</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs625.snc3/27426_564354049_9837_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>567336539</id>
+        <url>http://www.facebook.com/profile.php?id=567336539</url>
+        <name>Steve Westhead</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs228.ash2/49297_567336539_9262_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>683696267</id>
+        <url>http://www.facebook.com/profile.php?id=683696267</url>
+        <name>Michell Belisle</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs223.ash2/48903_683696267_6868_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>727481823</id>
+        <url>http://www.facebook.com/profile.php?id=727481823</url>
+        <name>Jon Downey</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs464.snc4/48986_727481823_747_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>503550174</id>
+        <url>http://www.facebook.com/profile.php?id=503550174</url>
+        <name>Nosherwan Minwalla</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs304.ash1/23139_503550174_706_q.jpg</pic_square>
+      </profile>
+      <profile>
+        <id>600130174</id>
+        <url>http://www.facebook.com/profile.php?id=600130174</url>
+        <name>Kevin Yount</name>
+        <pic_square>http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs463.snc4/48899_600130174_1533_q.jpg</pic_square>
+      </profile>
+    </fql_result_set>
+  </fql_result>
+  <fql_result>
+    <name>big_photos</name>
+    <fql_result_set list="true">
+      <photo>
+        <pid>4573940699105415080</pid>
+        <src_big>http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs775.snc4/67536_1557158603289_1064953557_31543208_6295759_n.jpg</src_big>
+      </photo>
+      <photo>
+        <pid>4573940699105414686</pid>
+        <src_big>http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs921.snc4/73434_1557002479386_1064953557_31542814_4411521_n.jpg</src_big>
+      </photo>
+      <photo>
+        <pid>4573940699105414688</pid>
+        <src_big>http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs898.snc4/73158_1557003519412_1064953557_31542816_4516740_n.jpg</src_big>
+      </photo>
+      <photo>
+        <pid>100000142290463_616044</pid>
+        <src_big>http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs054.ash2/36043_170777399603669_100000142290463_616044_3186098_n.jpg</src_big>
+      </photo>
+      <photo>
+        <pid>4432843185116067345</pid>
+        <src_big>http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs903.snc4/71691_1502576477675_1032101732_31110673_6599492_n.jpg</src_big>
+      </photo>
+    </fql_result_set>
+  </fql_result>
+  <fql_result>
+    <name>page_targets</name>
+    <fql_result_set list="true"/>
+  </fql_result>
+  <fql_result>
+    <name>user_targets</name>
+    <fql_result_set list="true">
+      <profile>
+        <id>677577198</id>
+        <url>http://www.facebook.com/profile.php?id=677577198</url>
+      </profile>
+    </fql_result_set>
+  </fql_result>
+</fql_multiquery_response>

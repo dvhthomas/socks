@@ -1,0 +1,19 @@
+<h2>Friends</h2>
+<p>This shows the full sized profile photo for each of your friends.</p>
+<p class="quiet">(raw xml <a href="/photos.xml">results</a>)</p>
+<ol>
+<% @photostream.photos.each do |p| %>
+	<li>
+	  <img src="<%=p.at_css('src_big').content%>" />
+	</span>
+		<p>width=<%=p.at_css('src_big_width')%>, height=<%=p.at_css('src_big_height')%></p>
+	</li>
+<%end%>
+</ol>
+<div class="quiet">
+	<h3>Facebook Query Language (FQL)</h3>
+        <h4>Call One</h4>
+	<p><%= @fql_photo  %></p>
+        <h4>OAuth Token</h4>
+	<p><%= @token %></p>
+</div>
